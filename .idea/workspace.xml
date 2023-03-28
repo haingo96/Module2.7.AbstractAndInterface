@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="104d8830-79ff-43d3-9fe6-aa96f73e4050" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice2/SquareComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice2/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise1/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise1/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -39,6 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ngoho/OneDrive/Desktop/CodeGym/Module2/_7_AbstractAndInterface/src/Exercise1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +51,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ngoho\OneDrive\Desktop\CodeGym\Module2\_7_AbstractAndInterface\src\Exercise1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679994464655</updated>
-      <workItem from="1679994465845" duration="6711000" />
+      <workItem from="1679994465845" duration="8320000" />
     </task>
     <servers />
   </component>
