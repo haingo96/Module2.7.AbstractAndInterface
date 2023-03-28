@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="104d8830-79ff-43d3-9fe6-aa96f73e4050" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice2/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice2/ComparableSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice2/SquareComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice2/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice2/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679994464655</updated>
-      <workItem from="1679994465845" duration="4538000" />
+      <workItem from="1679994465845" duration="6711000" />
     </task>
     <servers />
   </component>

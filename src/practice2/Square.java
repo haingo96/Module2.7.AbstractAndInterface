@@ -1,6 +1,6 @@
 package practice2;
 
-public class Square extends Rectangle{
+public class Square extends Rectangle {
     public Square() {
     }
 
@@ -29,6 +29,6 @@ public class Square extends Rectangle{
 
     @Override
     public String toString() {
-        return String.format("A Square with side=%s, which is a subclass of %s", getSide(), super.toString());
+        return String.format("A Square with side=%s, which is a subclass of %s \n", getSide(), super.toString());
     }
 }
