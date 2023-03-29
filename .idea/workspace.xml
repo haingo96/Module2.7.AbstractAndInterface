@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="104d8830-79ff-43d3-9fe6-aa96f73e4050" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercise2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercise2/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercise2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercise2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercise2/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,6 +47,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679994464655</updated>
-      <workItem from="1679994465845" duration="8320000" />
+      <workItem from="1679994465845" duration="13932000" />
     </task>
     <servers />
   </component>
